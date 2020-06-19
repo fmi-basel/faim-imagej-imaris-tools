@@ -10,7 +10,7 @@
 	</parent>
 
 	<artifactId>faim-imagej-imaris-tools</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 
 	<name>ImageJ Imaris Tools</name>
 	<description>A collection of commands to interact with Imaris Converter</description>
@@ -60,7 +60,7 @@
 	<scm>
 		<connection>scm:git:git://github.com/fmi-basel/faim-imagej-imaris-tools</connection>
 		<developerConnection>scm:git:git@github.com:fmi-basel/faim-imagej-imaris-tools</developerConnection>
-		<tag>HEAD</tag>
+		<tag>faim-imagej-imaris-tools-0.0.1</tag>
 		<url>https://github.com/fmi-basel/faim-imagej-imaris-tools</url>
 	</scm>
 	<issueManagement>
